@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "6ShGBY0VhT6kYha4AxW/dI1xB0cEMNoSo4jVFObPvco9eqKzsM0qLe5nOylNSVkSkOAy2Oy9hpUmw9wJbYG/Kg==",
+  "success": true,
+  "projectFilePath": "C:\\Keda_Test_Client_Azure_Storage_Que\\QueueApp\\QueueApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\timot\\.nuget\\packages\\azure.core\\1.15.0\\azure.core.1.15.0.nupkg.sha512",
+    "C:\\Users\\timot\\.nuget\\packages\\azure.storage.common\\12.8.0\\azure.storage.common.12.8.0.nupkg.sha512",
+    "C:\\Users\\timot\\.nuget\\packages\\azure.storage.queues\\12.7.0\\azure.storage.queues.12.7.0.nupkg.sha512",
+    "C:\\Users\\timot\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "C:\\Users\\timot\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\timot\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\timot\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\timot\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
+    "C:\\Users\\timot\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\timot\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\timot\\.nuget\\packages\\system.text.json\\4.6.0\\system.text.json.4.6.0.nupkg.sha512",
+    "C:\\Users\\timot\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}
